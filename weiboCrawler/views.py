@@ -33,7 +33,7 @@ def weibo_crawler(request):
                 "host": "localhost",
                 "port": 3306,
                 "user": "root",
-                "password": "20140008syq2017",
+                "password": "",
                 "charset": "utf8mb4"
             }
         }

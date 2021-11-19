@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="97" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="code.optimization.optimize.shared" />
+          <option value="theano.algorithms" />
+          <option value="code.optimization.optimize.tfbuild" />
+          <option value="optimization.optimize" />
+          <option value="code.train.io" />
+          <option value="code.optimization.optimize.shared_algorithms" />
+          <option value="linkpred.predictors.predictors" />
+          <option value="many_vector" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
