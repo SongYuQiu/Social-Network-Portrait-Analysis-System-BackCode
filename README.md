@@ -84,7 +84,8 @@ Copyright (c) 2017-present PanJiaChen
 ```
 
 ## 备注
-由于训练的分类模型太大，没有上传
+- 由于训练的分类模型太大，没有上传
+- [爬虫代码借鉴](https://github.com/dataabc/weibo-crawler)
 
 
 ## License
