@@ -88,3 +88,6 @@ Copyright (c) 2017-present PanJiaChen
 
 
 ## License
+[MIT](https://github.com/SongYuQiu/Social-Network-Portrait-Analysis-System-BackCode/blob/master/LICENSE)
+
+Copyright (c) 2021 Just for Star (yqSong)
